@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, AI, and automation.
 - 🌱 I’m currently learning Python, React, and Telegram bot development.
 - 💞️ I’m looking to collaborate on open-source projects and new tech ideas.
-- 📫 How to reach me: [telegram-nest02 or email-workmarkadres@gmail.com]
+- 📫 How to reach me: [telegram-nest02 or email- workmarkadres@gmail.com]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving complex problems with code!
 
